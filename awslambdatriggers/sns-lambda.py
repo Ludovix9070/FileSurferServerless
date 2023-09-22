@@ -33,7 +33,7 @@ def lambda_handler(event, context):
             
 def send_email(receiver_email, file):
 
-    sender_address = "filesurfer97@gmail.com"
+    sender_address = "filesurfer9779@gmail.com"
     sender_password = "rdxaiwmumaqwthxv"
     receiver_address = receiver_email
 
